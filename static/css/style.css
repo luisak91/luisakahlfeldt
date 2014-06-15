@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width: 985px;
+    margin: 0 auto;
+}
