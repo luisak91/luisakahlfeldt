@@ -4,12 +4,16 @@ title: Luisa Kahlfeldt
 ---
 <div class="post-previews-wrapper columns">
 
-{% for post in site.posts  %}
+    <div class="post-preview-inner-wrapper">
 
-    <a class="column post-preview" href="{{ post.url }}">
-        <img src="{{post.cover }}"/>
-    </a>
+        {% for post in site.posts  %}
 
-{% endfor %}
+            <a class="post-preview" href="{{ post.url }}">
+                <img src="{{post.cover }}"/>
+            </a>
+
+        {% endfor %}
+        
+    </div>
 
 </div>
