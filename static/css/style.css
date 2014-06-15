@@ -1,6 +1,13 @@
 html, body {
     margin: 0;
-    font-family: sans-serif;
+    font-family: Futura, "Trebuchet MS", Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+h1 {
+    font-size: 19px;
+    font-weight:light;
 }
 
 .header {
@@ -45,6 +52,22 @@ Post Preview
 .post-preview-inner-wrapper{
     width: 1020px;
 }
+
+
+/*
+Post
+*/
+.post {
+    width: 666px;
+    margin: 0 auto 50px;
+    /*text-align: center;*/
+}
+
+.post img {
+    max-width: 100%;
+    height: auto;
+}
+
 
 /*
 Footer
