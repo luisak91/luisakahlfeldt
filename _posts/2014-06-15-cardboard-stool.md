@@ -5,9 +5,6 @@ date:   2013-06-13 23:22:00
 cover: /images/cardboard/stool/landscape-cover.jpg
 ---
 
-![Close-Up One](/images/cardboard/stool/closeup-1.jpg)
-
-
 By experimenting with a low value,
 everyday material, the task was to
 manipulate the material in such
@@ -30,3 +27,5 @@ By laminating and rolling the
 cardboard, my intention was to
 give the material a new visual
 language.
+
+![Close-Up One](/images/cardboard/stool/closeup-1.jpg)
