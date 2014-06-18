@@ -5,6 +5,7 @@ date:   2013-06-13 23:22:00
 cover: /images/stain/tape/portrait-cover.jpg
 ---
 
+
 The brief, given by plastic
 packaging manufacturer
 Logoplaste, was to design an

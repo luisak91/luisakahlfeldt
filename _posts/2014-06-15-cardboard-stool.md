@@ -28,4 +28,8 @@ cardboard, my intention was to
 give the material a new visual
 language.
 
+![Close-Up One](/images/cardboard/stool/sketch-1.jpg)
+![Close-Up One](/images/cardboard/stool/IMG_2979.jpg)
 ![Close-Up One](/images/cardboard/stool/closeup-1.jpg)
+![Close-Up One](/images/cardboard/stool/closeup-2.jpg)
+![Close-Up One](/images/cardboard/stool/final-model.jpg)
