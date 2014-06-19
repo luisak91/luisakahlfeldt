@@ -26,3 +26,9 @@ The StainTape kit consists
 of differently coloured tape,
 indicating clearly which tape to
 use for what kind of stain.
+
+![Close-Up One](/images/stain/tape/user-research.jpg)
+![Close-Up One](/images/stain/tape/illustration.jpg)
+![Close-Up One](/images/stain/tape/final-render.jpg)
+![Close-Up One](/images/stain/tape/final-model.jpg)
+![Close-Up One](/images/stain/tape/user-scenario.jpg)

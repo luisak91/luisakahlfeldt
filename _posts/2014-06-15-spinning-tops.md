@@ -28,3 +28,12 @@ cool.
 
 In collaboration with Kimahni
 Emsley.
+
+
+![Close-Up One](/images/spinning-tops/boisbuchet-images/atmosphere-1.jpg)
+![Close-Up One](/images/spinning-tops/boisbuchet-images/group-image.jpg)
+![Close-Up One](/images/spinning-tops/product-images/close-up.jpg)
+![Close-Up One](/images/spinning-tops/product-images/close-up-3.jpg)
+![Close-Up One](/images/spinning-tops/product-images/spinning-tops.jpg)
+![Close-Up One](/images/spinning-tops/product-images/apple-juice-lid.jpg)
+![Close-Up One](/images/spinning-tops/product-images/spinning-top-presentation.jpg)
