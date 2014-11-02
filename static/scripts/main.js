@@ -3,7 +3,7 @@
     console.log("I'm running!");
 
     var hasLoaded = false;
-    var grid = document.querySelector('.post-preview-inner-wrapper');
+    var grid = document.querySelector('.post-previews-inner-wrapper');
     var isotope;
 
     if (!grid) {

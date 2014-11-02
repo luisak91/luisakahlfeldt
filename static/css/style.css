@@ -44,7 +44,11 @@ Columns
     float: left;
 }
 
-.columns .column:nth-child(3n){
+.column.column-double {
+    width: 645px;
+}
+
+.column.column-last {
     margin-right: 0;
 }
 
@@ -55,9 +59,17 @@ Post Preview
 .post-preview {
     display: block;
     margin:0 35px 35px 0;
+    -webkit-transition: opacity 250ms ease-out;
+    -moz-transition: opacity 250ms ease-out;
+    -o-transition: opacity 250ms ease-out;
+    transition: opacity 250ms ease-out;
 }
 
-.post-preview-inner-wrapper{
+.post-preview:hover {
+    opacity: 0.8;
+}
+
+.post-previews-inner-wrapper{
     width: 1020px;
 }
 
