@@ -53,6 +53,14 @@ Columns
     margin-right: 0;
 }
 
+.column a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.column a:hover {
+    color: #c9c9c9;
+}
 
 /*
 Post Preview
