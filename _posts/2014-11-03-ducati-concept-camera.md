@@ -7,11 +7,9 @@ cover: /images/ducati/concept-camera/alternative-cover.jpg
 
 
 ![Close-Up One](/images/ducati/concept-camera/ducati-decoding.jpg)
-The brief, given by plastic packaging manufacturer Logoplaste, was to design an innovative laundry product and packaging.
+The task was to design a compact, pocket size camera for Italian motorcycle brand Ducati. The emphasis was placed on the emotive, intangible qualities and values of a brand and how these are translated into a tangible object.
 
-Born from the observation that many young users are confused about what product to use for a certain kind of stain, I came up with the concept of stain
-removing tape. I was interested in creating a stain removal product that would speak to a younger, less experienced user group. The StainTape kit consists
-of differently coloured tape, indicating clearly which tape to use for what kind of stain.
+Inspired by the passionate, almost obsessive attachment between a racer and his bike, I created a camera that reflects upon this unique and intimate interaction. I was interested in materialising the transformation from a passion into a fetish, by looking at abstract concepts such as bondage and the idea of a second skin.
 
 ![Close-Up One](/images/ducati/concept-camera/sketches.jpg)
 ![Close-Up One](/images/ducati/concept-camera/sketchmodel-1.jpg)

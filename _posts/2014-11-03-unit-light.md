@@ -12,6 +12,9 @@ The slim and seemingly weightless structure allows light to take centre stage. A
 Unit can add a subtle sculptural element to any domestic interior, while emitting diffused, indirect light.
 This was a live client project for <a href="http://www.luceplan.com/Site/index.php?intLangID=1">Luceplan</a>.
 
+The Unit Light was featured in Icon Magazine's 'Best Graduates 2014', click <a href="http://www.iconeye.com/design/features/item/11119-graduates-2014">here</a> to read the full article.
+
+
 
 ![Close-Up One](/images/unit-light/sketches.jpg)
 ![Close-Up One](/images/unit-light/unit-front.jpg)
