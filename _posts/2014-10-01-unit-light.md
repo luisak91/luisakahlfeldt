@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unit Light
-date:   2013-06-14 23:22:00
+date:   2014-10-01 00:00:00
 cover: /images/unit-light/portrait-cover.jpg
 ---
 
@@ -16,8 +16,8 @@ The Unit Light was featured in Icon Magazine's 'Best Graduates 2014', click <a h
 
 
 
-![Close-Up One](/images/unit-light/sketches.jpg)
-![Close-Up One](/images/unit-light/unit-front.jpg)
-![Close-Up One](/images/unit-light/unit-side.jpg)
-![Close-Up One](/images/unit-light/unit-detail.jpg)
-![Close-Up One](/images/unit-light/unit-context.jpg)
+![Sketches](/images/unit-light/sketches.jpg)
+![Front View](/images/unit-light/unit-front.jpg)
+![Side View](/images/unit-light/unit-side.jpg)
+![Detail](/images/unit-light/unit-detail.jpg)
+![Context](/images/unit-light/unit-context.jpg)

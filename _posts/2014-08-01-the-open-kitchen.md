@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Open Kitchen
-date:   2013-06-13 23:22:00
+date:   2013-06-01 00:22:00
 cover: /images/the-open-kitchen/landscape-cover.jpg
 ---
 
@@ -16,10 +16,10 @@ As a product outcome that would express the values of the service in a tangible 
 Illustration by <a href="http://lourihn.com">Lou Rihn</a>
 
 
-![Close-Up One](/images/the-open-kitchen/pouch.jpg)
-![Close-Up One](/images/the-open-kitchen/open-set.jpg)
-![Close-Up One](/images/the-open-kitchen/rolling-pin.jpg)
-![Close-Up One](/images/the-open-kitchen/rolling-pin-2.jpg)
-![Close-Up One](/images/the-open-kitchen/utensils.jpg)
-![Close-Up One](/images/the-open-kitchen/handle.jpg)
-![Close-Up One](/images/the-open-kitchen/context.jpg)
+![Pouch](/images/the-open-kitchen/pouch.jpg)
+![Set](/images/the-open-kitchen/open-set.jpg)
+![Rolling Pin](/images/the-open-kitchen/rolling-pin.jpg)
+![Rolling Pin](/images/the-open-kitchen/rolling-pin-2.jpg)
+![Utensils](/images/the-open-kitchen/utensils.jpg)
+![Handle](/images/the-open-kitchen/handle.jpg)
+![Context](/images/the-open-kitchen/context.jpg)

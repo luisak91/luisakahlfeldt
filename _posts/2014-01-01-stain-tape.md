@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stain Tape
-date:   2013-06-13 23:22:00
+date:   2014-01-11 00:00:00
 cover: /images/stain/tape/portrait-cover.jpg
 ---
 

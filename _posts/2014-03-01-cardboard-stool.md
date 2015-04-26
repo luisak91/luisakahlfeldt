@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Cardboard Stool
-date:   2013-06-13 23:22:00
+date:   2014-03-01 00:00:00
 cover: /images/cardboard/stool/landscape-cover.jpg
 ---
 

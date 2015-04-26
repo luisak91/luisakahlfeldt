@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ducati Camera
-date:   2013-06-13 23:22:00
+date:   2013-07-01 00:00:00
 cover: /images/ducati/concept-camera/alternative-cover.jpg
 ---
 
@@ -11,8 +11,8 @@ The task was to design a compact, pocket size camera for Italian motorcycle bran
 
 Inspired by the passionate, almost obsessive attachment between a racer and his bike, I created a camera that reflects upon this unique and intimate interaction. I was interested in materialising the transformation from a passion into a fetish, by looking at abstract concepts such as bondage and the idea of a second skin.
 
-![Close-Up One](/images/ducati/concept-camera/sketches.jpg)
-![Close-Up One](/images/ducati/concept-camera/sketchmodel-1.jpg)
-![Close-Up One](/images/ducati/concept-camera/sketchmodel-2.jpg)
-![Close-Up One](/images/ducati/concept-camera/sketchmodels.jpg)
-![Close-Up One](/images/ducati/concept-camera/render.jpg)
+![Sketches](/images/ducati/concept-camera/sketches.jpg)
+![Sketch Models](/images/ducati/concept-camera/sketchmodel-1.jpg)
+![Sketch Models](/images/ducati/concept-camera/sketchmodel-2.jpg)
+![Sketch Models](/images/ducati/concept-camera/sketchmodels.jpg)
+![Render](/images/ducati/concept-camera/render.jpg)
