@@ -10,6 +10,10 @@ h1 {
     margin-bottom: 40px;
 }
 
+img {
+    display: block;
+}
+
 .header {
     height: 120px;
     margin-top: 30px;
