@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Open Kitchen
-date:   2013-06-01 00:22:00
+date:   2014-08-01 00:00:00
 cover: /images/the-open-kitchen/landscape-cover.jpg
 ---
 
