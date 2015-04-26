@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Surrealist Game
-date:   2013-05-01 00:00:00
 cover: /images/surrealist/game/landscape-cover.jpg
+order: 5
 ---
 
 

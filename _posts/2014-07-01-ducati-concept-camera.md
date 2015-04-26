@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Ducati Camera
-date:   2013-07-01 00:00:00
 cover: /images/ducati/concept-camera/alternative-cover.jpg
+order: 7
 ---
 
 

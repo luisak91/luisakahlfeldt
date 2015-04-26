@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Spinning Tops
-date:   2014-04-01 00:00:00
 cover: /images/spinning-tops/product-images/landscape-cover.jpg
+order: 4
 ---
 
 ![Close-Up One](/images/spinning-tops/boisbuchet-images/atmosphere-1.jpg)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  The Open Kitchen
-date:   2014-08-01 00:00:00
 cover: /images/the-open-kitchen/landscape-cover.jpg
+order: 8
 ---
 
 
