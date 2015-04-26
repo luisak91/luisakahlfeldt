@@ -2,7 +2,7 @@
 layout: post
 title:  Stain Tape
 cover: /images/stain/tape/portrait-cover.jpg
-order: 1
+order: 7
 ---
 
 

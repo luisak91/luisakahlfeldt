@@ -2,7 +2,7 @@
 layout: post
 title:  Cardboard Stool
 cover: /images/cardboard/stool/landscape-cover.jpg
-order: 3
+order: 9
 ---
 
 

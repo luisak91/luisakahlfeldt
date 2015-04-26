@@ -2,7 +2,7 @@
 layout: post
 title:  Ducati Camera
 cover: /images/ducati/concept-camera/alternative-cover.jpg
-order: 7
+order: 3
 ---
 
 

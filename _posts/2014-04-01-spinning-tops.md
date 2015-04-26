@@ -2,7 +2,7 @@
 layout: post
 title:  Spinning Tops
 cover: /images/spinning-tops/product-images/landscape-cover.jpg
-order: 4
+order: 8
 ---
 
 ![Close-Up One](/images/spinning-tops/boisbuchet-images/atmosphere-1.jpg)

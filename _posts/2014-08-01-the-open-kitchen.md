@@ -2,7 +2,8 @@
 layout: post
 title:  The Open Kitchen
 cover: /images/the-open-kitchen/landscape-cover.jpg
-order: 8
+order: 4
+
 ---
 
 

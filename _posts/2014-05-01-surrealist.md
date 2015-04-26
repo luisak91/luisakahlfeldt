@@ -2,7 +2,7 @@
 layout: post
 title:  Surrealist Game
 cover: /images/surrealist/game/landscape-cover.jpg
-order: 5
+order: 6
 ---
 
 
