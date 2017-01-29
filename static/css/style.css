@@ -1,13 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+
 html, body {
     margin: 0;
-    font-family: Futura, "Trebuchet MS", Helvetica Neue, sans-serif;
-    font-size: 14px;
-    line-height: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.5em;
 }
 
 h1 {
     font-size: 19px;
     margin-bottom: 40px;
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.5em;
 }
 
 img {
@@ -59,7 +68,7 @@ Columns
 
 .column a {
     color: #000000;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .column a:hover {
