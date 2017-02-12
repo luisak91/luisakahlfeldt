@@ -2,7 +2,7 @@
 layout: post
 title:  Ducati Camera
 cover: /images/ducati/concept-camera/alternative-cover.jpg
-order: 3
+order: 7
 ---
 
 
@@ -15,4 +15,3 @@ Inspired by the passionate, almost obsessive attachment between a racer and his 
 ![Sketch Models](/images/ducati/concept-camera/sketchmodel-1.jpg)
 ![Sketch Models](/images/ducati/concept-camera/sketchmodel-2.jpg)
 ![Sketch Models](/images/ducati/concept-camera/sketchmodels.jpg)
-![Render](/images/ducati/concept-camera/render.jpg)

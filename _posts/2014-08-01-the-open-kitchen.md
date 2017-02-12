@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  The Open Kitchen
-cover: /images/the-open-kitchen/landscape-cover.jpg
-order: 4
+cover: /images/the-open-kitchen/portraitcover.jpg
+order: 3
 
 ---
 
@@ -23,4 +23,4 @@ Illustration by <a href="http://lourihn.com">Lou Rihn</a>
 ![Rolling Pin](/images/the-open-kitchen/rolling-pin-2.jpg)
 ![Utensils](/images/the-open-kitchen/utensils.jpg)
 ![Handle](/images/the-open-kitchen/handle.jpg)
-![Context](/images/the-open-kitchen/context.jpg)
+![Context](/images/the-open-kitchen/overview.jpg)

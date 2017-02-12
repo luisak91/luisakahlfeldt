@@ -10,9 +10,16 @@ title: Luisa Kahlfeldt
 
         {% for post in sorted_posts  %}
 
-            <a class="post-preview" href="{{ post.url }}">
-                <img src="{{post.cover }}"/>
-            </a>
+
+            <!-- {{ post.title }} -->
+
+            {% if post.title != 'Press' %}
+
+                  <a class="post-preview" href="{{ post.url }}">
+                      <img src="{{post.cover }}"/>
+                  </a>
+
+            {% endif %}
 
         {% endfor %}
 
